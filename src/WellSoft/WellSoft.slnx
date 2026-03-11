@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../WellSoft.Tests/WellSoft.Tests.csproj" />
+  <Project Path="WellSoft.csproj" />
+</Solution>
